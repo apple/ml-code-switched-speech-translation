@@ -1,0 +1,1 @@
+These folders are used to hold the initial Fisher files that are later used for processing.

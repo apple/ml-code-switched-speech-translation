@@ -1,0 +1,5 @@
+env/*
+**/data/*
+**/output/*
+**/.DS_Store
+**/speech/*
